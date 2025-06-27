@@ -11,11 +11,3 @@ Aplicação simples para gerenciamento de reservas, com backend em Node.js + Exp
 - Frontend: React, TypeScript, Axios
 
 ---
-
-## Como rodar o projeto
-
-### Backend
-
-1. Entre na pasta backend:
-   ```bash
-   cd backend
